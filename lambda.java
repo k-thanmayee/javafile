@@ -11,6 +11,7 @@ public class lambda {
         ex1 n=(int a, int b)->{  
             System.out.println(a+b);  
         };  
-        n.hii(10,70);  
+        n.hii(10,70); 
+	System.out.println(a+b); 
     }  
 } 
