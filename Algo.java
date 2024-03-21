@@ -20,7 +20,7 @@ public class Algo {
 				}
 			}
 			if(pos==-1) {
-				System.out.println("value is not present in the array");
+				System.out.println("value isn't present in the array");
 				return;
 			}
 			System.out.println(pos);
